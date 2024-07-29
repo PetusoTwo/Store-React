@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 ![image](https://github.com/user-attachments/assets/88507a21-afb5-4e87-aea1-59039148d15b)
 
 (Falta BackEnd)
+Preview: https://store-react-petucode.netlify.app/
