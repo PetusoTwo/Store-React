@@ -11,5 +11,5 @@ Currently, two official plugins are available:
 
 ![image](https://github.com/user-attachments/assets/88507a21-afb5-4e87-aea1-59039148d15b)
 
-
+Preview: https://bucolic-tapioca-d59d9e.netlify.app/
 (Falta BackEnd)
